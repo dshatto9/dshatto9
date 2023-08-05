@@ -6,7 +6,7 @@ Front End Developer
 
 * 🌍  I'm based in Adrian, Michigan
 * ✉️  You can contact me at [dshatto9@gmail.com](mailto:dshatto9@gmail.com)
-* 🧠  I'm learning Angular
+* 🧠  I'm learning Vue
 * 🤝  I'm open to collaborating on interesting and forward thinking projects
 
 ### Skills
