@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 -------------------
 
-* 🌍  I'm based in Adrian, Michigan
-* ✉️  You can contact me at [dshatto9@gmail.com](mailto:dshatto9@gmail.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on interesting and forward thinking projects
+* 🌍  Based in Adrian, Michigan
+* ✉️  Contact me at [dshatto9@gmail.com](mailto:dshatto9@gmail.com)
+* 🧠  Currently learning React
+* 🤝  Open to collaborating on interesting and forward thinking projects
 
 ### Skills
 
