@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David Shatto
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David
 ====================================================================================================================================
 
 Front End Developer
@@ -6,7 +6,7 @@ Front End Developer
 
 * 🌍  I'm based in Adrian, Michigan
 * ✉️  You can contact me at [dshatto9@gmail.com](mailto:dshatto9@gmail.com)
-* 🧠  I'm learning Vue
+* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on interesting and forward thinking projects
 
 ### Skills
