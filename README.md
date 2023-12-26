@@ -1,7 +1,6 @@
 Software Developer
 -------------------
 
-* 🌍  Based in Adrian, Michigan
 * ✉️  Contact me at [dshatto9@gmail.com](mailto:dshatto9@gmail.com)
 * 🧠  Currently learning React
 * 🤝  Open to collaborating on interesting and forward thinking projects.
