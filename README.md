@@ -2,7 +2,6 @@ Software Developer
 -------------------
 
 * ✉️  Contact me at [dshatto9@gmail.com](mailto:dshatto9@gmail.com)
-* 🧠  Currently learning React
 * 🤝  Open to collaborating on interesting and forward thinking projects.
 
 ### Skills
